@@ -10,7 +10,7 @@ stratum_tcp_port = 50001
 #report_host = 
 #report_stratum_tcp_port = 50001
 #report_stratum_tcp_ssl_port = 50002
-banner = Welcome to Electrum!
+banner = Welcome to NEOS Electrum!
 banner_file = /etc/electrum.banner
 #irc = no
 #irc_nick = <yournickname>
@@ -27,7 +27,7 @@ pruning_limit = 100
 
 [bitcoind]
 bitcoind_host = localhost
-bitcoind_port = 8332
+bitcoind_port = 15004
 # user and password from bitcoin.conf
 bitcoind_user = 
 bitcoind_password = 
