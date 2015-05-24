@@ -27,7 +27,7 @@ __b58base = len(__b58chars)
 
 global PUBKEY_ADDRESS
 global SCRIPT_ADDRESS
-PUBKEY_ADDRESS = 0
+PUBKEY_ADDRESS = 53
 SCRIPT_ADDRESS = 5
 
 def rev_hex(s):
